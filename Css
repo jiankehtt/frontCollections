@@ -1,0 +1,8 @@
+/*英文文本两端对齐，首行缩进*/
+.form-group label span {
+  text-align: justify;
+}
+
+.form-group label span p {
+  text-indent:2em
+}
